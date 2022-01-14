@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\bin\Debug\net5.0\LongestPossibleSubstring.exe
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\bin\Debug\net5.0\LongestPossibleSubstring.deps.json
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\bin\Debug\net5.0\LongestPossibleSubstring.runtimeconfig.json
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\bin\Debug\net5.0\LongestPossibleSubstring.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\bin\Debug\net5.0\LongestPossibleSubstring.dll
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\bin\Debug\net5.0\ref\LongestPossibleSubstring.dll
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\bin\Debug\net5.0\LongestPossibleSubstring.pdb
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.AssemblyInfo.cs
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.dll
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\ref\LongestPossibleSubstring.dll
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.pdb
+C:\Users\HP\Desktop\Challenge\LongestPossibleSubstring\obj\Debug\net5.0\LongestPossibleSubstring.genruntimeconfig.cache
